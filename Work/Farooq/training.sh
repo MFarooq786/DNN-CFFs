@@ -9,7 +9,7 @@
 #conda activate tf_environment
 
 # Change to the directory where your Python script is located
-cd code_playground/Tuts/DNN-CFFs/Farooq
+cd code_playground/DNN-CFFs/Work/Farooq
 
 # Run your Python script (replace 'script.py' with your script name)
 python training.py
